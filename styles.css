@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+.container{
+	background:lightblue;
+	border:1 px solid balck;
+	border-radius:5px;
+	height:400px;
+	width:100%;	
+	text-align:cenetr;
+	padding:15%;
+	display:flex;  
+	
+}
+.red{
+	
+	height:100px;
+	width:100px;
+	border:1px solid red;
+	border-radius:50%;
+	background:red;
+
+}
+.yellow{
+	
+	height:100px;
+	width:100px;
+	border:1px solid yellow;
+	border-radius:50%;
+	background:yellow;
+
+}
+.green{
+	
+	height:100px;
+	width:100px;
+	border:1px solid green;
+	border-radius:50%;
+	background:green;
+
+}
